@@ -23,3 +23,5 @@ _Berikut merupakan langkah untuk menginstall face recognation library pada kompu
    ```brew install dlib or pip3 install dlib```
 7.  Install library face_recognition
    ```pip3 install face_recognition```
+8.  Run lab1.py
+   ```python3 lab1.py```
