@@ -12,8 +12,7 @@ _Berikut merupakan langkah untuk menginstall face recognation library pada kompu
 1. Install Python 3.9 using Brew Command
     ```brew install python``` 
 2. Install OpenCV
-   ```pip3 install opencv-contrib-python  
-   ```
+   ```pip3 install opencv-contrib-python```
 3. Install Pillow
    ```ppip3 install pillow
    ```
