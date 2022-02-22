@@ -15,21 +15,14 @@ prabowo_image = face_recognition.load_image_file("face/prabowo.jpeg")
 prabowo_face_encoding = face_recognition.face_encodings(prabowo_image)[0]
 
 
-# Load a third sample picture and learn how to recognize it.
-sisca_image = face_recognition.load_image_file("face/sisca.jpeg")
-sisca_face_encoding = face_recognition.face_encodings(sisca_image)[0]
-
-
 # Create arrays of known face encodings and their names
 known_face_encodings = [
     jokowi_face_encoding,
-    prabowo_face_encoding,
-    sisca_face_encoding
+    prabowo_face_encoding
 ]
 known_face_names = [
     "Joko Widodo",
-    "Prabowo",
-    "Sisca Hasianku"
+    "Prabowo"
 ]
 
 # Initialize some variables
