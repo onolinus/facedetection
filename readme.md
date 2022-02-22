@@ -14,17 +14,12 @@ _Berikut merupakan langkah untuk menginstall face recognation library pada kompu
 2. Install OpenCV
    ```pip3 install opencv-contrib-python```
 3. Install Pillow
-   ```ppip3 install pillow
-   ```
+   ```ppip3 install pillow```
 4. Install Imutils
-   ```pip3 install imutils
-   ```
+   ```pip3 install imutils```
 5. Install Cmake
-   ```brew install cmake
-   ```
+   ```brew install cmake```
 6. Install dlib
-   ```brew install dlib or pip3 install dlib
-   ```
+   ```brew install dlib or pip3 install dlib```
 7.  Install library face_recognition
-   ```pip3 install face_recognition
-   ```
+   ```pip3 install face_recognition```
